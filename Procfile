@@ -1,1 +1,1 @@
-web: pdf2zh
+web: python -m pdf2zh.pdf2zh
